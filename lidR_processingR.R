@@ -98,6 +98,7 @@ nDSM2
 plot(nDSM2)
 ############# Segmentation of normalized data : potential trees and buildings segmentation
 lidar_seg2 <- lidar_aoi2 
-lidar_seg2 <- segment_shapes(lidar_seg2, shp_plane(th1 = 25, th2 = 6, k = 8), "Coplanar")
+lidar_seg2
+lidar_seg2 <- segment_shapes(lidar_seg2, shp_plane(th1 = 25, th2 = 6, k = 64), "Coplanar")
 lidar_seg2
 plot(lidar_seg2, color = "Coplanar",colorPalette = c("darkgreen", "red"))

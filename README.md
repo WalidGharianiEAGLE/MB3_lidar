@@ -1,0 +1,4 @@
+# Potential Trees and Buildings Segmentation using pdal and lidR
+
+## Author
+Walid Ghariani MSc. Student in [Applied Earth Observation and Geoanalysis (EAGLE)](http://eagle-science.org/) [linkedin](https://www.linkedin.com/in/walid-ghariani-893365138/) E-mail: walid.ghariani@stud-mail.uni-wuerzburg.de
